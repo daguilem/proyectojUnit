@@ -18,4 +18,9 @@ No es necesario instalar el software ya que este se ejecuta y se utiliza por con
 
 ### Como usar
 
+Utilizando Eclipse basta con ejecutar el proyecto como una aplicación de java y testear las pruebas unitarias por archivos con jUnit hacer build a maven con goal = package.
+Alternativamente podemos desde el root folder ejecutar:
 
+>mvn test
+
+en caso de tener maven instalado para ejectuar y hacer build a las pruebas.
