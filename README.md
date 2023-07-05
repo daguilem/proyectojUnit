@@ -14,7 +14,7 @@ GameStore App es una software hecho en Java el cual simula un tienda de videojue
 
 ### Instalación
 
-No es necesario instalar el software ya que este se ejecuta y se utiliza por consola, sin embargo es necesario tener alguna versión actual de Java instalada en el sistema Java 17.0+ y jUnit4.13 para la ejecución de las pruebas unitarias.
+No es necesario instalar el software ya que este se ejecuta y se utiliza por consola, sin embargo es necesario tener alguna versión actual de Java instalada en el sistema Java 17.0+, jUnit4.13 para la ejecución de las pruebas unitarias y una forma de compilar y ejecutar el proyecto como apache Maven o (mi recomendación) un IDLE como eclipse.
 
 ### Como usar
 
