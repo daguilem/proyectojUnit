@@ -6,7 +6,7 @@ GameStore App es una software hecho en Java el cual simula un tienda de videojue
 * Cliente
   * Ver el inventario actual de la tienda
   * Comprar juegos de la tienda por nombre y cantidad
-* Administrador
+* Administrador (**admin123**)
     * Ver el inventario actual de la tienda
     * Comprar juegos
     * Vender juegos
@@ -27,7 +27,7 @@ en caso de tener maven instalado para ejectuar y hacer build a las pruebas.
 
 ### Como usar
 
-Una vez ejecutado el projecto de Java, basta con seguir las instrucciones del menú, siendo claro y preciso en el nombre de los juegos y las cantidades.
+Una vez ejecutado el projecto de Java, basta con seguir las instrucciones del menú, siendo claro y preciso en el nombre de los juegos y las cantidades, la tienda inicializa una lista de juegos por defecto una vez se ejecuta por lo que no es necesario llenar manualmente de juegos para testear, en caso de querer agregar nuevos basta con que el administrador compre juegos que no existen en el inventario despues de confirmar que esa es su intención. La clave del administrador para entrar al sistema es **admin123**
 
 ### Como contribuir
 
